@@ -3,15 +3,13 @@
 - Frontend:
   - [React](https://reactjs.org/)
   - [Tailwind CSS](https://tailwindcss.com/)
-  - [Redux](https://redux.js.org/)
-  - ...
+    
 
 - Backend:
   - [Node.js](https://nodejs.org/)
   - [Express.js](https://expressjs.com/)
   - [MongoDB](https://www.mongodb.com/)
-  - [Passport.js](http://www.passportjs.org/)
-  - ...
+    
 
 ## Features
 
