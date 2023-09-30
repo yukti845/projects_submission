@@ -30,7 +30,7 @@ Instructions on how to set up and run the application locally.
 
 ```bash
 # Clone the repository
-git clone (https://github.com/yukti845/projects_submission.git)
+git clone https://github.com/yukti845/projects_submission.git
 
 # Change to the project directory
 cd shl_submission-main
